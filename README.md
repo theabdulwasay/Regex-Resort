@@ -165,6 +165,8 @@ MIT © Regex-Resort — free to use, modify, and ship.
 ---
 
 <p align="center">
-  <b>🚪 Walk through the Portico — hospitality, automated.</b><br />
+  <b>🚪 Walk through the Regex-resort — hospitality, automated.</b><br />
   <sub>Made with ❤️ for hotels, guests & developers</sub>
 </p>
+<img width="1299" height="872" alt="image" src="https://github.com/user-attachments/assets/6323db3d-461d-477f-82f9-df9699066f39" />
+
