@@ -1,0 +1,1263 @@
+[
+  {
+    "id": 1,
+    "name": "Regal Inn Lahore",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "stars": 4,
+    "address": "20 Market Street, Lahore",
+    "facilities": [
+      "Fitness Center",
+      "Airport Shuttle",
+      "Concierge Desk",
+      "Conference Rooms",
+      "Rooftop Bar",
+      "Spa & Wellness Center"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.48,
+    "reviewCount": 1629,
+    "contact": {
+      "phone": "+46-201-4409040",
+      "email": "reservations@pearlresortspa1.com"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Regal Resort & Spa Lahore",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "stars": 5,
+    "address": "38 Park Lane, Lahore",
+    "facilities": [
+      "Business Center",
+      "Fitness Center",
+      "Kids Club",
+      "Airport Shuttle",
+      "Outdoor Pool",
+      "EV Charging",
+      "Free Parking"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.44,
+    "reviewCount": 3716,
+    "contact": {
+      "phone": "+84-338-4352784",
+      "email": "reservations@orchidresortspa2.com"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Azure Residency Lahore",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "stars": 4,
+    "address": "119 Market Street, Lahore",
+    "facilities": [
+      "Conference Rooms",
+      "Airport Shuttle",
+      "Fine-dining Restaurant",
+      "Kids Club",
+      "Business Center",
+      "Laundry Service",
+      "Pet Friendly",
+      "Fitness Center"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.5,
+    "reviewCount": 2307,
+    "contact": {
+      "phone": "+84-769-7242037",
+      "email": "reservations@orchidresidency3.com"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Meridian Towers Lahore",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "stars": 5,
+    "address": "102 Harbor St, Lahore",
+    "facilities": [
+      "Concierge Desk",
+      "Kids Club",
+      "EV Charging",
+      "Outdoor Pool",
+      "Pet Friendly",
+      "Business Center",
+      "Rooftop Bar",
+      "Laundry Service"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.81,
+    "reviewCount": 673,
+    "contact": {
+      "phone": "+17-218-8449784",
+      "email": "reservations@grandtowers4.com"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Grand Inn Lahore",
+    "city": "Lahore",
+    "country": "Pakistan",
+    "stars": 5,
+    "address": "191 Market Street, Lahore",
+    "facilities": [
+      "Fitness Center",
+      "Pet Friendly",
+      "Concierge Desk",
+      "EV Charging",
+      "Conference Rooms",
+      "Laundry Service",
+      "Kids Club",
+      "Business Center",
+      "Outdoor Pool"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.92,
+    "reviewCount": 1656,
+    "contact": {
+      "phone": "+54-747-7879131",
+      "email": "reservations@orchidpalace5.com"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Azure Gardens Karachi",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "stars": 4,
+    "address": "230 Market Street, Karachi",
+    "facilities": [
+      "Business Center",
+      "Fitness Center",
+      "Fine-dining Restaurant",
+      "Kids Club",
+      "Airport Shuttle"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.43,
+    "reviewCount": 2870,
+    "contact": {
+      "phone": "+59-474-6302979",
+      "email": "reservations@palmheights6.com"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Regal Plaza Karachi",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "stars": 5,
+    "address": "55 Market Street, Karachi",
+    "facilities": [
+      "Airport Shuttle",
+      "EV Charging",
+      "Rooftop Bar",
+      "Concierge Desk",
+      "Free Parking",
+      "Spa & Wellness Center",
+      "Laundry Service",
+      "Indoor Pool"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.02,
+    "reviewCount": 1768,
+    "contact": {
+      "phone": "+37-258-2507803",
+      "email": "reservations@grandplaza7.com"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Meridian Suites Karachi",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "stars": 2,
+    "address": "218 Central Ave, Karachi",
+    "facilities": [
+      "Fitness Center",
+      "Rooftop Bar",
+      "Free Parking",
+      "Concierge Desk",
+      "Airport Shuttle"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.4,
+    "reviewCount": 1261,
+    "contact": {
+      "phone": "+85-696-6975423",
+      "email": "reservations@crescentboutiquehotel8.com"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Imperial Residency Karachi",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "stars": 4,
+    "address": "70 Harbor St, Karachi",
+    "facilities": [
+      "Rooftop Bar",
+      "Free Parking",
+      "Spa & Wellness Center",
+      "Fitness Center",
+      "Laundry Service"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.78,
+    "reviewCount": 4007,
+    "contact": {
+      "phone": "+13-592-6927302",
+      "email": "reservations@meridiantowers9.com"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Grand Gardens Karachi",
+    "city": "Karachi",
+    "country": "Pakistan",
+    "stars": 5,
+    "address": "66 Garden Rd, Karachi",
+    "facilities": [
+      "Fitness Center",
+      "Rooftop Bar",
+      "Business Center",
+      "Pet Friendly",
+      "Spa & Wellness Center",
+      "Kids Club",
+      "Laundry Service"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.33,
+    "reviewCount": 2549,
+    "contact": {
+      "phone": "+1-457-8233356",
+      "email": "reservations@meridianresidency10.com"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Azure Gardens Islamabad",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "stars": 5,
+    "address": "219 Park Lane, Islamabad",
+    "facilities": [
+      "Fine-dining Restaurant",
+      "Business Center",
+      "Conference Rooms",
+      "Spa & Wellness Center",
+      "Fitness Center"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.51,
+    "reviewCount": 4037,
+    "contact": {
+      "phone": "+55-895-4847130",
+      "email": "reservations@imperialresidency11.com"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Royal Palace Islamabad",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "stars": 4,
+    "address": "249 Harbor St, Islamabad",
+    "facilities": [
+      "Free Parking",
+      "Pet Friendly",
+      "Airport Shuttle",
+      "Outdoor Pool",
+      "Rooftop Bar",
+      "Fine-dining Restaurant",
+      "EV Charging",
+      "Kids Club",
+      "Laundry Service"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.99,
+    "reviewCount": 2213,
+    "contact": {
+      "phone": "+83-850-9674758",
+      "email": "reservations@royalgardens12.com"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Pearl Suites Islamabad",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "stars": 4,
+    "address": "165 Market Street, Islamabad",
+    "facilities": [
+      "Free Parking",
+      "Rooftop Bar",
+      "EV Charging",
+      "Airport Shuttle",
+      "Outdoor Pool",
+      "Indoor Pool",
+      "Fitness Center",
+      "Business Center",
+      "Laundry Service"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.65,
+    "reviewCount": 2422,
+    "contact": {
+      "phone": "+76-878-9387437",
+      "email": "reservations@meridianpalace13.com"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Orchid Residency Islamabad",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "stars": 5,
+    "address": "95 Garden Rd, Islamabad",
+    "facilities": [
+      "Concierge Desk",
+      "Rooftop Bar",
+      "Conference Rooms",
+      "Pet Friendly",
+      "Kids Club",
+      "Business Center"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.7,
+    "reviewCount": 2986,
+    "contact": {
+      "phone": "+84-301-8586361",
+      "email": "reservations@palmgardens14.com"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Imperial Heights Islamabad",
+    "city": "Islamabad",
+    "country": "Pakistan",
+    "stars": 3,
+    "address": "188 Main Blvd, Islamabad",
+    "facilities": [
+      "Fitness Center",
+      "Business Center",
+      "Laundry Service",
+      "Airport Shuttle",
+      "Free Parking",
+      "Conference Rooms",
+      "Kids Club",
+      "Indoor Pool"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.5,
+    "reviewCount": 1797,
+    "contact": {
+      "phone": "+43-702-1203022",
+      "email": "reservations@royalinn15.com"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Grand Plaza Dubai",
+    "city": "Dubai",
+    "country": "UAE",
+    "stars": 3,
+    "address": "114 Harbor St, Dubai",
+    "facilities": [
+      "Outdoor Pool",
+      "Conference Rooms",
+      "Concierge Desk",
+      "Rooftop Bar",
+      "Free Parking",
+      "EV Charging",
+      "Indoor Pool",
+      "Business Center",
+      "Laundry Service"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.96,
+    "reviewCount": 2982,
+    "contact": {
+      "phone": "+11-574-9191917",
+      "email": "reservations@orchidpalace16.com"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Grand Inn Dubai",
+    "city": "Dubai",
+    "country": "UAE",
+    "stars": 3,
+    "address": "137 Central Ave, Dubai",
+    "facilities": [
+      "Indoor Pool",
+      "Free Parking",
+      "Rooftop Bar",
+      "Fitness Center",
+      "Outdoor Pool",
+      "Business Center",
+      "Laundry Service",
+      "Airport Shuttle"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.3,
+    "reviewCount": 2185,
+    "contact": {
+      "phone": "+19-724-1108397",
+      "email": "reservations@pearlinn17.com"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Pearl Resort & Spa Dubai",
+    "city": "Dubai",
+    "country": "UAE",
+    "stars": 4,
+    "address": "143 Park Lane, Dubai",
+    "facilities": [
+      "Free Parking",
+      "Airport Shuttle",
+      "Pet Friendly",
+      "Kids Club",
+      "Rooftop Bar",
+      "Spa & Wellness Center"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.8,
+    "reviewCount": 1225,
+    "contact": {
+      "phone": "+22-339-1892952",
+      "email": "reservations@crescentsuites18.com"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Azure Inn Dubai",
+    "city": "Dubai",
+    "country": "UAE",
+    "stars": 4,
+    "address": "55 Park Lane, Dubai",
+    "facilities": [
+      "Free Parking",
+      "Airport Shuttle",
+      "Spa & Wellness Center",
+      "Concierge Desk",
+      "Rooftop Bar",
+      "Business Center",
+      "Indoor Pool",
+      "Outdoor Pool"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.67,
+    "reviewCount": 885,
+    "contact": {
+      "phone": "+33-247-4541328",
+      "email": "reservations@royalplaza19.com"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Orchid Resort & Spa Dubai",
+    "city": "Dubai",
+    "country": "UAE",
+    "stars": 4,
+    "address": "161 Main Blvd, Dubai",
+    "facilities": [
+      "Pet Friendly",
+      "Conference Rooms",
+      "Indoor Pool",
+      "Kids Club",
+      "Laundry Service",
+      "Free Parking",
+      "Concierge Desk",
+      "Fitness Center",
+      "Rooftop Bar"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.48,
+    "reviewCount": 1183,
+    "contact": {
+      "phone": "+30-799-5416300",
+      "email": "reservations@crescentinn20.com"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Palm Palace Istanbul",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "stars": 3,
+    "address": "23 Market Street, Istanbul",
+    "facilities": [
+      "Fitness Center",
+      "EV Charging",
+      "Conference Rooms",
+      "Free Parking",
+      "Airport Shuttle",
+      "Rooftop Bar",
+      "Outdoor Pool",
+      "Fine-dining Restaurant",
+      "Kids Club"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.79,
+    "reviewCount": 1871,
+    "contact": {
+      "phone": "+17-619-3541355",
+      "email": "reservations@meridianboutiquehotel21.com"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Pearl Resort & Spa Istanbul",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "stars": 4,
+    "address": "188 Harbor St, Istanbul",
+    "facilities": [
+      "Indoor Pool",
+      "Outdoor Pool",
+      "Spa & Wellness Center",
+      "Kids Club",
+      "Free Parking",
+      "Concierge Desk",
+      "Fitness Center",
+      "EV Charging"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.41,
+    "reviewCount": 156,
+    "contact": {
+      "phone": "+23-924-1967043",
+      "email": "reservations@orchidresortspa22.com"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Royal Suites Istanbul",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "stars": 3,
+    "address": "80 Central Ave, Istanbul",
+    "facilities": [
+      "Conference Rooms",
+      "Business Center",
+      "Free Parking",
+      "Airport Shuttle",
+      "Pet Friendly",
+      "Fitness Center",
+      "Indoor Pool",
+      "Rooftop Bar"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.85,
+    "reviewCount": 847,
+    "contact": {
+      "phone": "+91-595-4629981",
+      "email": "reservations@imperialsuites23.com"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Orchid Boutique Hotel Istanbul",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "stars": 3,
+    "address": "246 Garden Rd, Istanbul",
+    "facilities": [
+      "Fitness Center",
+      "Outdoor Pool",
+      "Indoor Pool",
+      "Business Center",
+      "Airport Shuttle",
+      "Laundry Service",
+      "Fine-dining Restaurant"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.21,
+    "reviewCount": 3673,
+    "contact": {
+      "phone": "+78-860-6858555",
+      "email": "reservations@orchidsuites24.com"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Imperial Resort & Spa Istanbul",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "stars": 3,
+    "address": "168 Main Blvd, Istanbul",
+    "facilities": [
+      "Fine-dining Restaurant",
+      "Pet Friendly",
+      "Spa & Wellness Center",
+      "EV Charging",
+      "Laundry Service"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.65,
+    "reviewCount": 763,
+    "contact": {
+      "phone": "+35-373-5908349",
+      "email": "reservations@palmboutiquehotel25.com"
+    }
+  },
+  {
+    "id": 26,
+    "name": "Orchid Plaza London",
+    "city": "London",
+    "country": "UK",
+    "stars": 5,
+    "address": "173 Market Street, London",
+    "facilities": [
+      "Laundry Service",
+      "Free Parking",
+      "EV Charging",
+      "Outdoor Pool",
+      "Spa & Wellness Center",
+      "Conference Rooms",
+      "Business Center",
+      "Airport Shuttle"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.7,
+    "reviewCount": 1874,
+    "contact": {
+      "phone": "+59-833-4787148",
+      "email": "reservations@meridiansuites26.com"
+    }
+  },
+  {
+    "id": 27,
+    "name": "Regal Residency London",
+    "city": "London",
+    "country": "UK",
+    "stars": 3,
+    "address": "134 Park Lane, London",
+    "facilities": [
+      "Spa & Wellness Center",
+      "Airport Shuttle",
+      "Outdoor Pool",
+      "Kids Club",
+      "Rooftop Bar",
+      "Fitness Center"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.32,
+    "reviewCount": 1583,
+    "contact": {
+      "phone": "+19-878-1627888",
+      "email": "reservations@royalsuites27.com"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pearl Resort & Spa London",
+    "city": "London",
+    "country": "UK",
+    "stars": 5,
+    "address": "158 Park Lane, London",
+    "facilities": [
+      "Outdoor Pool",
+      "Fitness Center",
+      "Fine-dining Restaurant",
+      "EV Charging",
+      "Kids Club",
+      "Laundry Service",
+      "Concierge Desk",
+      "Business Center"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.92,
+    "reviewCount": 1539,
+    "contact": {
+      "phone": "+22-269-9757135",
+      "email": "reservations@meridiangardens28.com"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Orchid Palace London",
+    "city": "London",
+    "country": "UK",
+    "stars": 4,
+    "address": "250 Main Blvd, London",
+    "facilities": [
+      "Indoor Pool",
+      "Business Center",
+      "Free Parking",
+      "Spa & Wellness Center",
+      "Laundry Service",
+      "Airport Shuttle"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.73,
+    "reviewCount": 4106,
+    "contact": {
+      "phone": "+48-505-5589244",
+      "email": "reservations@orchidresortspa29.com"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Meridian Gardens London",
+    "city": "London",
+    "country": "UK",
+    "stars": 4,
+    "address": "15 Main Blvd, London",
+    "facilities": [
+      "Indoor Pool",
+      "Concierge Desk",
+      "Airport Shuttle",
+      "Business Center",
+      "Kids Club",
+      "Fitness Center",
+      "Fine-dining Restaurant"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.63,
+    "reviewCount": 3433,
+    "contact": {
+      "phone": "+58-391-5820397",
+      "email": "reservations@crescentpalace30.com"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Azure Boutique Hotel New York",
+    "city": "New York",
+    "country": "USA",
+    "stars": 5,
+    "address": "13 Garden Rd, New York",
+    "facilities": [
+      "Spa & Wellness Center",
+      "Free Parking",
+      "Airport Shuttle",
+      "EV Charging",
+      "Rooftop Bar",
+      "Outdoor Pool"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.24,
+    "reviewCount": 3547,
+    "contact": {
+      "phone": "+21-753-6429296",
+      "email": "reservations@imperialboutiquehotel31.com"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Orchid Towers New York",
+    "city": "New York",
+    "country": "USA",
+    "stars": 5,
+    "address": "9 Main Blvd, New York",
+    "facilities": [
+      "Rooftop Bar",
+      "Conference Rooms",
+      "Spa & Wellness Center",
+      "Concierge Desk",
+      "Fine-dining Restaurant",
+      "Free Parking",
+      "Business Center"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.86,
+    "reviewCount": 2069,
+    "contact": {
+      "phone": "+97-391-7698020",
+      "email": "reservations@pearlboutiquehotel32.com"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Meridian Resort & Spa New York",
+    "city": "New York",
+    "country": "USA",
+    "stars": 4,
+    "address": "204 Park Lane, New York",
+    "facilities": [
+      "Outdoor Pool",
+      "EV Charging",
+      "Free Parking",
+      "Pet Friendly",
+      "Conference Rooms",
+      "Business Center",
+      "Fitness Center",
+      "Spa & Wellness Center",
+      "Laundry Service"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.63,
+    "reviewCount": 947,
+    "contact": {
+      "phone": "+65-322-5690787",
+      "email": "reservations@grandsuites33.com"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Imperial Inn New York",
+    "city": "New York",
+    "country": "USA",
+    "stars": 4,
+    "address": "182 Garden Rd, New York",
+    "facilities": [
+      "Spa & Wellness Center",
+      "Pet Friendly",
+      "Airport Shuttle",
+      "Fine-dining Restaurant",
+      "Fitness Center",
+      "Indoor Pool",
+      "Conference Rooms"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.34,
+    "reviewCount": 3883,
+    "contact": {
+      "phone": "+25-367-9375308",
+      "email": "reservations@grandinn34.com"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Grand Boutique Hotel New York",
+    "city": "New York",
+    "country": "USA",
+    "stars": 3,
+    "address": "245 Harbor St, New York",
+    "facilities": [
+      "Business Center",
+      "Outdoor Pool",
+      "Conference Rooms",
+      "Rooftop Bar",
+      "Concierge Desk",
+      "Fine-dining Restaurant",
+      "Airport Shuttle"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.23,
+    "reviewCount": 3913,
+    "contact": {
+      "phone": "+16-558-1814681",
+      "email": "reservations@grandresidency35.com"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Azure Resort & Spa Paris",
+    "city": "Paris",
+    "country": "France",
+    "stars": 4,
+    "address": "244 Harbor St, Paris",
+    "facilities": [
+      "Conference Rooms",
+      "Fitness Center",
+      "Airport Shuttle",
+      "EV Charging",
+      "Rooftop Bar",
+      "Pet Friendly",
+      "Indoor Pool",
+      "Free Parking",
+      "Laundry Service"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.28,
+    "reviewCount": 577,
+    "contact": {
+      "phone": "+94-567-5541599",
+      "email": "reservations@crescentboutiquehotel36.com"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Pearl Gardens Paris",
+    "city": "Paris",
+    "country": "France",
+    "stars": 4,
+    "address": "56 Central Ave, Paris",
+    "facilities": [
+      "Fine-dining Restaurant",
+      "Pet Friendly",
+      "Airport Shuttle",
+      "Spa & Wellness Center",
+      "EV Charging"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.34,
+    "reviewCount": 1553,
+    "contact": {
+      "phone": "+81-313-9087182",
+      "email": "reservations@crescenttowers37.com"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Royal Residency Paris",
+    "city": "Paris",
+    "country": "France",
+    "stars": 3,
+    "address": "79 Market Street, Paris",
+    "facilities": [
+      "Pet Friendly",
+      "Concierge Desk",
+      "Airport Shuttle",
+      "Rooftop Bar",
+      "EV Charging",
+      "Business Center",
+      "Laundry Service",
+      "Outdoor Pool"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.69,
+    "reviewCount": 1519,
+    "contact": {
+      "phone": "+90-993-6150726",
+      "email": "reservations@orchidplaza38.com"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Crescent Resort & Spa Paris",
+    "city": "Paris",
+    "country": "France",
+    "stars": 4,
+    "address": "88 Garden Rd, Paris",
+    "facilities": [
+      "Conference Rooms",
+      "Free Parking",
+      "Outdoor Pool",
+      "Kids Club",
+      "Pet Friendly",
+      "Indoor Pool",
+      "Fine-dining Restaurant",
+      "Fitness Center",
+      "Airport Shuttle"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.7,
+    "reviewCount": 1883,
+    "contact": {
+      "phone": "+15-640-4601465",
+      "email": "reservations@grandresidency39.com"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Regal Towers Paris",
+    "city": "Paris",
+    "country": "France",
+    "stars": 5,
+    "address": "38 Central Ave, Paris",
+    "facilities": [
+      "Fine-dining Restaurant",
+      "Business Center",
+      "Rooftop Bar",
+      "Indoor Pool",
+      "Kids Club",
+      "Laundry Service",
+      "EV Charging",
+      "Airport Shuttle"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.14,
+    "reviewCount": 906,
+    "contact": {
+      "phone": "+41-499-3335278",
+      "email": "reservations@pearlplaza40.com"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Royal Residency Bangkok",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "stars": 4,
+    "address": "171 Park Lane, Bangkok",
+    "facilities": [
+      "Free Parking",
+      "Rooftop Bar",
+      "Laundry Service",
+      "Outdoor Pool",
+      "Indoor Pool",
+      "EV Charging"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.62,
+    "reviewCount": 1982,
+    "contact": {
+      "phone": "+58-829-6726761",
+      "email": "reservations@azuretowers41.com"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Pearl Palace Bangkok",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "stars": 5,
+    "address": "232 Main Blvd, Bangkok",
+    "facilities": [
+      "EV Charging",
+      "Business Center",
+      "Fine-dining Restaurant",
+      "Concierge Desk",
+      "Spa & Wellness Center",
+      "Pet Friendly"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.6,
+    "reviewCount": 1662,
+    "contact": {
+      "phone": "+82-382-5611514",
+      "email": "reservations@grandtowers42.com"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Orchid Palace Bangkok",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "stars": 4,
+    "address": "9 Main Blvd, Bangkok",
+    "facilities": [
+      "Conference Rooms",
+      "Airport Shuttle",
+      "Fitness Center",
+      "Pet Friendly",
+      "Laundry Service"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.23,
+    "reviewCount": 643,
+    "contact": {
+      "phone": "+74-219-2892805",
+      "email": "reservations@azureplaza43.com"
+    }
+  },
+  {
+    "id": 44,
+    "name": "Orchid Towers Bangkok",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "stars": 2,
+    "address": "150 Harbor St, Bangkok",
+    "facilities": [
+      "Laundry Service",
+      "Spa & Wellness Center",
+      "Indoor Pool",
+      "Free Parking",
+      "Fine-dining Restaurant",
+      "Airport Shuttle",
+      "Conference Rooms",
+      "Concierge Desk"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.37,
+    "reviewCount": 2211,
+    "contact": {
+      "phone": "+65-590-7534780",
+      "email": "reservations@imperialresortspa44.com"
+    }
+  },
+  {
+    "id": 45,
+    "name": "Regal Suites Bangkok",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "stars": 5,
+    "address": "34 Central Ave, Bangkok",
+    "facilities": [
+      "Airport Shuttle",
+      "Kids Club",
+      "Free Parking",
+      "Laundry Service",
+      "Spa & Wellness Center"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.86,
+    "reviewCount": 4168,
+    "contact": {
+      "phone": "+87-886-9663718",
+      "email": "reservations@meridianplaza45.com"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Crescent Gardens Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "stars": 5,
+    "address": "242 Harbor St, Kuala Lumpur",
+    "facilities": [
+      "Concierge Desk",
+      "Laundry Service",
+      "Pet Friendly",
+      "Spa & Wellness Center",
+      "Outdoor Pool",
+      "Free Parking",
+      "Rooftop Bar"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.53,
+    "reviewCount": 2851,
+    "contact": {
+      "phone": "+87-725-1262599",
+      "email": "reservations@palmplaza46.com"
+    }
+  },
+  {
+    "id": 47,
+    "name": "Regal Boutique Hotel Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "stars": 2,
+    "address": "135 Main Blvd, Kuala Lumpur",
+    "facilities": [
+      "Fitness Center",
+      "EV Charging",
+      "Indoor Pool",
+      "Airport Shuttle",
+      "Conference Rooms",
+      "Outdoor Pool",
+      "Fine-dining Restaurant"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 4.46,
+    "reviewCount": 4194,
+    "contact": {
+      "phone": "+94-260-4545279",
+      "email": "reservations@pearlsuites47.com"
+    }
+  },
+  {
+    "id": 48,
+    "name": "Imperial Gardens Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "stars": 4,
+    "address": "66 Central Ave, Kuala Lumpur",
+    "facilities": [
+      "Pet Friendly",
+      "Indoor Pool",
+      "Fine-dining Restaurant",
+      "Free Parking",
+      "Spa & Wellness Center",
+      "EV Charging",
+      "Concierge Desk",
+      "Laundry Service",
+      "Airport Shuttle"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.76,
+    "reviewCount": 2653,
+    "contact": {
+      "phone": "+23-522-5558798",
+      "email": "reservations@royalgardens48.com"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Regal Resort & Spa Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "stars": 5,
+    "address": "134 Park Lane, Kuala Lumpur",
+    "facilities": [
+      "Spa & Wellness Center",
+      "Fine-dining Restaurant",
+      "Rooftop Bar",
+      "Fitness Center",
+      "Business Center",
+      "Kids Club",
+      "Airport Shuttle",
+      "Pet Friendly",
+      "EV Charging"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.97,
+    "reviewCount": 117,
+    "contact": {
+      "phone": "+28-563-1509664",
+      "email": "reservations@royalpalace49.com"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Crescent Residency Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "stars": 5,
+    "address": "77 Park Lane, Kuala Lumpur",
+    "facilities": [
+      "Airport Shuttle",
+      "Free Parking",
+      "Conference Rooms",
+      "Outdoor Pool",
+      "EV Charging",
+      "Rooftop Bar",
+      "Kids Club"
+    ],
+    "checkInTime": "14:00",
+    "checkOutTime": "12:00",
+    "rating": 3.89,
+    "reviewCount": 3169,
+    "contact": {
+      "phone": "+26-527-8693598",
+      "email": "reservations@pearlresidency50.com"
+    }
+  }
+]

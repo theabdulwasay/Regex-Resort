@@ -1,0 +1,195 @@
+[
+  {
+    "id": 1,
+    "category": "check-in",
+    "keywords": [
+      "check in",
+      "checkin",
+      "check-in time",
+      "arrival time"
+    ],
+    "question": "What time is check-in?",
+    "answer": "Standard check-in time is 2:00 PM (14:00). Early check-in may be available on request, subject to room availability."
+  },
+  {
+    "id": 2,
+    "category": "check-out",
+    "keywords": [
+      "check out",
+      "checkout",
+      "check-out time",
+      "departure time"
+    ],
+    "question": "What time is check-out?",
+    "answer": "Standard check-out time is 12:00 PM (noon). Late check-out can be arranged for an additional fee, subject to availability."
+  },
+  {
+    "id": 3,
+    "category": "cancellation",
+    "keywords": [
+      "cancel",
+      "cancellation",
+      "refund policy"
+    ],
+    "question": "What is the cancellation policy?",
+    "answer": "Free cancellation is available up to 48 hours before check-in. Cancellations within 48 hours are subject to a one-night charge."
+  },
+  {
+    "id": 4,
+    "category": "payment",
+    "keywords": [
+      "payment",
+      "pay",
+      "credit card",
+      "cash",
+      "currency"
+    ],
+    "question": "What payment methods are accepted?",
+    "answer": "We accept all major credit/debit cards, bank transfers, and cash payments in local currency at the front desk."
+  },
+  {
+    "id": 5,
+    "category": "pets",
+    "keywords": [
+      "pet",
+      "dog",
+      "cat",
+      "animal"
+    ],
+    "question": "Are pets allowed?",
+    "answer": "Pet-friendly rooms are available at select properties for an additional cleaning fee. Please mention your pet when booking."
+  },
+  {
+    "id": 6,
+    "category": "parking",
+    "keywords": [
+      "parking",
+      "car park",
+      "valet"
+    ],
+    "question": "Is parking available?",
+    "answer": "Most of our hotels offer free self-parking, and valet parking is available at premium properties for an extra charge."
+  },
+  {
+    "id": 7,
+    "category": "wifi",
+    "keywords": [
+      "wifi",
+      "wi-fi",
+      "internet"
+    ],
+    "question": "Is WiFi available?",
+    "answer": "Complimentary high-speed WiFi is available throughout all our properties, in-room and in public areas."
+  },
+  {
+    "id": 8,
+    "category": "breakfast",
+    "keywords": [
+      "breakfast",
+      "meal",
+      "buffet"
+    ],
+    "question": "Is breakfast included?",
+    "answer": "Breakfast is included with most room rates; a full buffet breakfast is served daily between 7:00 AM and 10:30 AM."
+  },
+  {
+    "id": 9,
+    "category": "pool",
+    "keywords": [
+      "pool",
+      "swimming"
+    ],
+    "question": "Do you have a swimming pool?",
+    "answer": "Many of our hotels feature outdoor or indoor pools — check the specific hotel facilities for details."
+  },
+  {
+    "id": 10,
+    "category": "gym",
+    "keywords": [
+      "gym",
+      "fitness",
+      "workout"
+    ],
+    "question": "Is there a fitness center?",
+    "answer": "Most properties include a 24-hour fitness center equipped with modern cardio and strength equipment."
+  },
+  {
+    "id": 11,
+    "category": "children",
+    "keywords": [
+      "kids",
+      "children",
+      "child",
+      "family"
+    ],
+    "question": "Is the hotel family friendly?",
+    "answer": "Yes, our hotels welcome families and many properties offer kids clubs, cribs, and family suites on request."
+  },
+  {
+    "id": 12,
+    "category": "smoking",
+    "keywords": [
+      "smoking",
+      "smoke"
+    ],
+    "question": "Do you have smoking rooms?",
+    "answer": "A limited number of designated smoking rooms are available on request; most rooms and public areas are strictly non-smoking."
+  },
+  {
+    "id": 13,
+    "category": "shuttle",
+    "keywords": [
+      "airport",
+      "shuttle",
+      "transfer"
+    ],
+    "question": "Is airport transfer available?",
+    "answer": "Airport shuttle service is available at select hotels — please share your flight details in advance to arrange pickup."
+  },
+  {
+    "id": 14,
+    "category": "spa",
+    "keywords": [
+      "spa",
+      "massage",
+      "wellness"
+    ],
+    "question": "Do you offer spa services?",
+    "answer": "Select properties feature a full-service spa and wellness center offering massages, facials, and sauna access."
+  },
+  {
+    "id": 15,
+    "category": "accessibility",
+    "keywords": [
+      "wheelchair",
+      "accessible",
+      "disability"
+    ],
+    "question": "Are rooms wheelchair accessible?",
+    "answer": "Accessible rooms with wider doorways and roll-in showers are available on request — please specify when booking."
+  },
+  {
+    "id": 16,
+    "category": "extra-bed",
+    "keywords": [
+      "extra bed",
+      "crib",
+      "cot",
+      "baby bed"
+    ],
+    "question": "Can I request an extra bed or crib?",
+    "answer": "Extra beds and cribs can be added to most rooms for a small nightly fee — subject to room size and availability."
+  },
+  {
+    "id": 17,
+    "category": "contact",
+    "keywords": [
+      "contact",
+      "phone number",
+      "email",
+      "reach you"
+    ],
+    "question": "How can I contact the hotel?",
+    "answer": "You can reach the front desk 24/7 via the phone number and email listed on your booking confirmation."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "name": "hotel-concierge-chatbot",
+  "version": "1.0.0",
+  "description": "Production-ready rule-based hotel assistant chatbot with a 10,000+ record dataset",
+  "main": "server/index.js",
+  "scripts": {
+    "seed": "node server/data/generate.js",
+    "start": "node server/index.js",
+    "dev": "node --watch server/index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

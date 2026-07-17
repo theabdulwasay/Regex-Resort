@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Concierge — Hotel Assistant</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<div class="lobby">
+
+  <!-- LEFT: Ledger / concierge desk panel -->
+  <aside class="ledger">
+    <div class="ledger-top">
+      <div class="brand">
+        <span class="brand-mark">⌂</span>
+        <div>
+          <h1>Concierge</h1>
+          <p class="brand-sub">Rule-based hotel assistant</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="ledger-stats" id="ledgerStats">
+      <div class="stat"><span class="stat-num" data-target="0">0</span><span class="stat-label">Hotels</span></div>
+      <div class="stat"><span class="stat-num" data-target="0">0</span><span class="stat-label">Rooms</span></div>
+      <div class="stat"><span class="stat-num" data-target="0">0</span><span class="stat-label">Cities</span></div>
+      <div class="stat"><span class="stat-num" data-target="0">0</span><span class="stat-label">Bookings on file</span></div>
+    </div>
+
+    <div class="ledger-divider" aria-hidden="true"></div>
+
+    <div class="ledger-section">
+      <h2>Quick check</h2>
+      <p class="ledger-copy">Ask about a city to see what's on the books.</p>
+      <div class="chip-row" id="cityChips"></div>
+    </div>
+
+    <div class="ledger-section">
+      <h2>Try asking</h2>
+      <ul class="sample-list">
+        <li data-prompt="Do you have any double rooms in Dubai under $150?">"Double rooms in Dubai under $150?"</li>
+        <li data-prompt="I want to book a room">"I want to book a room"</li>
+        <li data-prompt="What time is check-out?">"What time is check-out?"</li>
+        <li data-prompt="Check my booking HTL-100123">"Check my booking HTL-100123"</li>
+        <li data-prompt="Do your hotels have a pool?">"Do your hotels have a pool?"</li>
+      </ul>
+    </div>
+
+    <div class="ledger-footer">
+      <span class="pulse-dot"></span> Rule engine online · no external AI calls
+    </div>
+  </aside>
+
+  <!-- RIGHT: Chat -->
+  <main class="chat-wing">
+    <header class="chat-header">
+      <div>
+        <h2>Front Desk Chat</h2>
+        <p>Ask about rooms, prices, amenities, or make a booking.</p>
+      </div>
+      <button class="reset-btn" id="resetBtn" title="Start a new conversation">Reset conversation</button>
+    </header>
+
+    <div class="chat-thread" id="chatThread"></div>
+
+    <div class="quick-replies" id="quickReplies"></div>
+
+    <form class="composer" id="composer">
+      <input type="text" id="messageInput" placeholder="Type a message… e.g. “Find a suite in Istanbul”" autocomplete="off" />
+      <button type="submit" aria-label="Send">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none"><path d="M3 11L21 3L13 21L11 13L3 11Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
+      </button>
+    </form>
+  </main>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>
