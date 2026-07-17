@@ -1,6 +1,6 @@
 # 🏨 Regex-Resort
 
-### *Your intelligent hotel concierge — rule-based, lightning-fast, zero API bills*
+### *intelligent hotel concierge — rule-based, lightning-fast, zero API bills*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
